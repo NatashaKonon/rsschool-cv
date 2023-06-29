@@ -1,4 +1,4 @@
-#Natalsha Konon
+#Natasha Konon
 Junior Java-JavaScript Developer, Freelancer
 ![image](https://github.com/settings/profile)
 
@@ -25,6 +25,7 @@ perseverance, self-organization, industriousness
 Belarussion - native
 Russion - perfect
 English - b1
+
 
 
 
